@@ -19,7 +19,7 @@
 
 ```bash
 # Clonar el repositorio
-git clone <url-del-repo>
+git clone https://github.com/Vane2005/DS-Project4.git
 cd DS-Project4
 
 # Instalar dependencias
